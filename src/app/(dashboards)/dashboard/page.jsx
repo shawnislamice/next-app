@@ -1,11 +1,9 @@
-import Heading from "@/components/Heading";
 import React from "react";
 
 const page = () => {
   return (
     <div>
-   
-      h2 This is My page
+      <h2>Dashboard</h2>
     </div>
   );
 };
